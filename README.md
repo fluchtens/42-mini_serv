@@ -9,7 +9,10 @@ I think the speed of the program is tested, so to pass this exam, I advise you t
 If you fail test 8 with a lot of bytes to read, I suggest you send the "client %d:" separately from the message line.  
 I passed this test thanks to that, I don't really know why^^.
 
-### Installation :
+### Preview:
+![screenshot01](https://i.imgur.com/PWq3wb8.png)
+
+### Installation:
 - Clone the repository.
 
 ### Usage:
